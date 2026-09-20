@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F9FA",
+  "secondaryColor": "#E5E7EB",
+  "backgroundColor": "#F8F9FA",
+  "textColor": "#1F2937",
+  "accentColor": "#0EA5E9",
+  "fontHeading": "Plus Jakarta Sans",
+  "fontBody": "Inter",
+  "borderRadius": "0.375rem",
+  "logoText": "TaskFlow",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-446TYH/logo.png",
+  "tone": "energetic"
+}
